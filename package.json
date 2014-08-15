@@ -1,0 +1,36 @@
+{
+  "name":"co-soap",
+  "description": "co friendly soap client",
+  "repository": "anilanar/co-soap",
+  "version": "0.0.1",
+  "keywords": [
+    "soap",
+    "node",
+    "co"
+  ],
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "test",
+    "example.js",
+    "Readme.md",
+    "Makefile"
+  ],
+  "dependencies": {
+    "soap": "*",
+    "co": "*",
+    "lodash": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "co-mocha": "*",
+    "chai": "*",
+    "istanbul": "*",
+    "coveralls": "*",
+    "proxyquire": "*"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "make test-cov"
+  }
+}
