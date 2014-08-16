@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/anilanar/co-soap.svg?branch=master)](https://travis-ci.org/anilanar/co-soap) [![Coverage Status](https://coveralls.io/repos/anilanar/co-soap/badge.png?branch=master)](https://coveralls.io/r/anilanar/co-soap?branch=master)
+[![Build Status](https://travis-ci.org/anilanar/co-soap.svg?branch=master)](https://travis-ci.org/anilanar/co-soap) [![Coverage Status](http://img.shields.io/coveralls/anilanar/co-soap.svg)](https://coveralls.io/r/anilanar/co-soap?branch=master)
 [![NPM version](https://badge.fury.io/js/co-soap.svg)](http://badge.fury.io/js/co-soap)
 
 #co-soap
